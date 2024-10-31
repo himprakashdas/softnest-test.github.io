@@ -1,0 +1,61 @@
+baseURL = "https://localhost:1313/"
+languageCode = "en-us"
+title = "Softnest"
+theme = "hugo-hero-theme"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.92.0"
+    
+[params]
+  google_analytics_id=""
+
+  [params.logo]
+    mobile = "images/logo-dark.png"
+    mobile_height = "36px"
+    mobile_width = "36px"
+    desktop = "images/logo-full.png"
+    desktop_height = "29px"
+    desktop_width = "217px"
+    alt = "Softnest"
+
+  [params.homepage_meta_tags]
+    meta_description = "Innovative Software Solutions Tailored to Your Business Needs"
+    meta_og_title = "Softnest"
+    meta_og_type = "website"
+    meta_og_url = "https://softnest.dev"
+    meta_og_image = ""
+    meta_og_description = "Innovative Software Solutions Tailored to Your Business Need"
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@himprakashdas"
+    meta_twitter_creator = "@himprakashdas"
+
+[[menu.main]]
+	name = "Services"
+	url = "/services/"
+    weight = 1
+
+[[menu.main]]
+    name = "Work"
+    url = "/work/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "History"
+    url = "/history/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"
