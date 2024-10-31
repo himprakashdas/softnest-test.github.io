@@ -2,108 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Softnest</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on Softnest</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fall Plaza</title>
-      <link>https://example.org/work/fall-plaza/</link>
+      <link>http://localhost:1313/work/fall-plaza/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>https://example.org/work/fall-plaza/</guid>
+      <guid>http://localhost:1313/work/fall-plaza/</guid>
       <description>&lt;p&gt;Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.&#xA;Ignibus inpatiens explorat, te tegens &lt;em&gt;ferro nocere haud&lt;/em&gt;, et Dulichium tui&#xA;male! Quo sed &lt;a href=&#34;#vexant-achivi&#34;&gt;fuit flexit et&lt;/a&gt; hic die solido, gloria?&lt;/p&gt;&#xA;&lt;p&gt;Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco &lt;em&gt;vati&lt;/em&gt;&#xA;dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!&#xA;Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus&#xA;esse iam feres mortis Plurima.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Web Development</title>
-      <link>https://example.org/services/00-web-development/</link>
+      <link>http://localhost:1313/services/00-web-development/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>https://example.org/services/00-web-development/</guid>
+      <guid>http://localhost:1313/services/00-web-development/</guid>
       <description>&lt;p&gt;A strong online presence is essential for any business. Our web development services encompass everything from designing responsive websites to developing complex web applications.&lt;/p&gt;&#xA;&lt;h3 id=&#34;elevate-your-online-presence-with-professional-web-development&#34;&gt;Elevate Your Online Presence with Professional Web Development&lt;/h3&gt;&#xA;&lt;p&gt;In the digital age, your website serves as the face of your business. At Softnest, we understand the importance of a well-designed website that not only looks great but also functions seamlessly. Our web development services are tailored to meet the unique needs of your business, ensuring that you stand out in a competitive online landscape.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Liferay Service Provider</title>
-      <link>https://example.org/services/07-liferay-service/</link>
+      <link>http://localhost:1313/services/07-liferay-service/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>https://example.org/services/07-liferay-service/</guid>
+      <guid>http://localhost:1313/services/07-liferay-service/</guid>
       <description>&lt;p&gt;As a trusted Liferay service provider, we offer comprehensive solutions for enterprise-level content management systems (CMS). Our expertise in Liferay allows us to deliver customized portals that enhance collaboration and information sharing within organizations.&lt;/p&gt;&#xA;&lt;h3 id=&#34;empower-your-enterprise-with-liferay-based-solutions&#34;&gt;Empower Your Enterprise with Liferay-Based Solutions&lt;/h3&gt;&#xA;&lt;p&gt;Liferay is renowned as one leading platforms available today when it comes managing enterprise-level content effectively . As certified Liferay service providers , at Softnest we offer comprehensive solutions designed specifically cater needs organizations seeking robust content management capabilities .&lt;/p&gt;</description>
     </item>
     <item>
       <title>Modern Hospital</title>
-      <link>https://example.org/work/modern-hospital/</link>
+      <link>http://localhost:1313/work/modern-hospital/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>https://example.org/work/modern-hospital/</guid>
+      <guid>http://localhost:1313/work/modern-hospital/</guid>
       <description>&lt;p&gt;Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.&#xA;Ignibus inpatiens explorat, te tegens &lt;em&gt;ferro nocere haud&lt;/em&gt;, et Dulichium tui&#xA;male! Quo sed &lt;a href=&#34;#vexant-achivi&#34;&gt;fuit flexit et&lt;/a&gt; hic die solido, gloria?&lt;/p&gt;&#xA;&lt;p&gt;Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco &lt;em&gt;vati&lt;/em&gt;&#xA;dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!&#xA;Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus&#xA;esse iam feres mortis Plurima.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Odoo Consultant</title>
-      <link>https://example.org/services/08-odoo-consultant/</link>
+      <link>http://localhost:1313/services/08-odoo-consultant/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>https://example.org/services/08-odoo-consultant/</guid>
+      <guid>http://localhost:1313/services/08-odoo-consultant/</guid>
       <description>&lt;p&gt;As certified Odoo consultants, we specialize in implementing Odoo ERP solutions tailored to your business needs. Our team will guide you through every step of the process—from initial assessment to deployment—ensuring that you harness the full potential of Odoo’s features.&lt;/p&gt;&#xA;&lt;h3 id=&#34;streamline-your-business-operations-with-odoo-erp-solutions&#34;&gt;Streamline Your Business Operations with Odoo ERP Solutions&lt;/h3&gt;&#xA;&lt;p&gt;Odoo is one of the most versatile ERP systems available today—offering an extensive suite of integrated applications designed specifically for businesses across various industries. At Softnest, we specialize in Odoo consulting services aimed at helping organizations implement effective ERP solutions tailored precisely according their unique requirements.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Serverless Development</title>
-      <link>https://example.org/services/06-serverless-development/</link>
+      <link>http://localhost:1313/services/06-serverless-development/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>https://example.org/services/06-serverless-development/</guid>
+      <guid>http://localhost:1313/services/06-serverless-development/</guid>
       <description>&lt;p&gt;Our server-less development services enable businesses to build scalable applications without the complexity of managing server infrastructure. By leveraging cloud computing platforms like AWS Lambda or Azure Functions, we create applications that automatically scale based on demand, reducing operational costs while enhancing performance.&lt;/p&gt;&#xA;&lt;h3 id=&#34;embrace-innovation-through-server-less-architecture&#34;&gt;Embrace Innovation Through Server-less Architecture&lt;/h3&gt;&#xA;&lt;p&gt;Server-less architecture has emerged as one most innovative approaches building applications today ,allowing developers focus on writing code rather than managing infrastructure . At Softnest ,we specialize providing server-less development services enabling businesses build scalable applications efficiently without complexity traditional server management entails .&lt;/p&gt;</description>
     </item>
     <item>
       <title>UI and UX Design</title>
-      <link>https://example.org/services/05-ui-ux-design/</link>
+      <link>http://localhost:1313/services/05-ui-ux-design/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>https://example.org/services/05-ui-ux-design/</guid>
+      <guid>http://localhost:1313/services/05-ui-ux-design/</guid>
       <description>&lt;p&gt;User Interface (UI) and User Experience (UX) design are critical components of any successful digital product. Our design team focuses on creating intuitive interfaces that enhance user satisfaction while ensuring seamless navigation throughout your application or website.&lt;/p&gt;&#xA;&lt;h3 id=&#34;create-engaging-user-experiences-through-thoughtful-design&#34;&gt;Create Engaging User Experiences Through Thoughtful Design&lt;/h3&gt;&#xA;&lt;p&gt;User Interface (UI) and User Experience (UX) design are critical components in determining how users interact with digital products. At Softnest, we focus on creating engaging designs that not only attract users but also provide them with seamless experiences across all platforms. Our approach combines creativity with functionality to deliver outstanding results.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cargo Terminal</title>
-      <link>https://example.org/work/cargo-terminal/</link>
+      <link>http://localhost:1313/work/cargo-terminal/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>https://example.org/work/cargo-terminal/</guid>
+      <guid>http://localhost:1313/work/cargo-terminal/</guid>
       <description>&lt;p&gt;Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.&#xA;Ignibus inpatiens explorat, te tegens &lt;em&gt;ferro nocere haud&lt;/em&gt;, et Dulichium tui&#xA;male! Quo sed &lt;a href=&#34;#vexant-achivi&#34;&gt;fuit flexit et&lt;/a&gt; hic die solido, gloria?&lt;/p&gt;&#xA;&lt;p&gt;Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco &lt;em&gt;vati&lt;/em&gt;&#xA;dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!&#xA;Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus&#xA;esse iam feres mortis Plurima.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://example.org/pages/about/</link>
+      <link>http://localhost:1313/pages/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      <guid>https://example.org/pages/about/</guid>
+      <guid>http://localhost:1313/pages/about/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>History</title>
-      <link>https://example.org/pages/history/</link>
+      <link>http://localhost:1313/pages/history/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      <guid>https://example.org/pages/history/</guid>
+      <guid>http://localhost:1313/pages/history/</guid>
       <description>&lt;h1 id=&#34;about-heading&#34;&gt;About Heading&lt;/h1&gt;&#xA;&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;strip bg-cover bg-position-center bg-overlay pt-15 pb-15&#34; style=&#34;background-image: url(&#39; https://source.unsplash.com/zglUlG8k47I/1600x500 &#39;);&#34;&gt;&#xA;  &lt;div class=&#34;container&#34;&gt;&#xA;    &lt;div class=&#34;row&#34;&gt;&#xA;      &lt;div class=&#34;col-12 col-md-6&#34;&gt;&#xA;          &lt;p&gt;Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.&lt;/p&gt;&#xA;&#xA;          &#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;strip bg-cover bg-position-center bg-overlay pt-15 pb-15&#34; style=&#34;background-image: url(&#39; https://source.unsplash.com/_v-EHHKKW3w/1600x700 &#39;);&#34;&gt;&#xA;  &lt;div class=&#34;container&#34;&gt;&#xA;    &lt;div class=&#34;row&#34;&gt;&#xA;      &lt;div class=&#34;col-12 col-md-6 offset-md-6&#34;&gt;&#xA;          &lt;p&gt;Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian.&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI Consulting</title>
-      <link>https://example.org/services/02-ai-consulting/</link>
+      <link>http://localhost:1313/services/02-ai-consulting/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
-      <guid>https://example.org/services/02-ai-consulting/</guid>
+      <guid>http://localhost:1313/services/02-ai-consulting/</guid>
       <description>&lt;p&gt;Unlock the potential of your data with our AI consulting services. We help organizations integrate artificial intelligence into their operations to improve decision-making and automate processes.&lt;/p&gt;&#xA;&lt;h3 id=&#34;harness-the-power-of-artificial-intelligence-for-business-growth&#34;&gt;Harness the Power of Artificial Intelligence for Business Growth&lt;/h3&gt;&#xA;&lt;p&gt;Artificial Intelligence (AI) is no longer just a buzzword; it’s a transformative force reshaping industries worldwide. At Softnest, we offer AI consulting services designed to help businesses leverage AI technologies effectively. Our experts work closely with you to identify opportunities where AI can add value, streamline processes, and enhance decision-making.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cloud Services</title>
-      <link>https://example.org/services/04-cloud-services/</link>
+      <link>http://localhost:1313/services/04-cloud-services/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
-      <guid>https://example.org/services/04-cloud-services/</guid>
+      <guid>http://localhost:1313/services/04-cloud-services/</guid>
       <description>&lt;p&gt;Embrace the future of technology with our cloud services, designed to enhance your operational efficiency and scalability. We offer tailored cloud solutions that allow businesses to store, manage, and analyze data securely in the cloud.&lt;/p&gt;&#xA;&lt;h3 id=&#34;unlock-the-power-of-cloud-computing-for-your-business&#34;&gt;Unlock the Power of Cloud Computing for Your Business&lt;/h3&gt;&#xA;&lt;p&gt;Cloud computing has revolutionized how businesses operate by providing scalable resources that can be accessed anytime, anywhere. At [Your Firm Name], we offer comprehensive cloud services designed to enhance efficiency, reduce costs, and improve overall performance. Whether you&amp;rsquo;re looking to migrate existing systems or develop new cloud-based solutions, our team is here to assist.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Software Development</title>
-      <link>https://example.org/services/03-software-development/</link>
+      <link>http://localhost:1313/services/03-software-development/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
-      <guid>https://example.org/services/03-software-development/</guid>
+      <guid>http://localhost:1313/services/03-software-development/</guid>
       <description>&lt;p&gt;Our software development team specializes in creating custom desktop applications for Windows and Mac environments. We understand that each business has unique requirements, so we take a personalized approach to software development.&lt;/p&gt;&#xA;&lt;h3 id=&#34;custom-software-solutions-tailored-for-your-business-needs&#34;&gt;Custom Software Solutions Tailored for Your Business Needs&lt;/h3&gt;&#xA;&lt;p&gt;In an era where off-the-shelf software often falls short of meeting specific business requirements, custom software development becomes essential. At [Your Firm Name], we specialize in developing tailored software applications for Windows and Mac environments. Our dedicated team works closely with clients to create solutions that enhance productivity and streamline operations.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mobile Development</title>
-      <link>https://example.org/services/01-mobile-development/</link>
+      <link>http://localhost:1313/services/01-mobile-development/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
-      <guid>https://example.org/services/01-mobile-development/</guid>
+      <guid>http://localhost:1313/services/01-mobile-development/</guid>
       <description>&lt;p&gt;In today’s mobile-driven world, having a robust mobile application is crucial for business success. Our mobile development team specializes in creating high-performance applications for both iOS and Android platforms&lt;/p&gt;&#xA;&lt;h3 id=&#34;transform-your-business-with-mobile-solutions&#34;&gt;Transform Your Business with Mobile Solutions&lt;/h3&gt;&#xA;&lt;p&gt;In an increasingly mobile-centric world, having a robust mobile application is essential for businesses looking to connect with their customers effectively. At Softnest, we specialize in mobile development, creating high-performance applications tailored to your specific needs. Our team of experienced developers utilizes the latest technologies to ensure your app stands out in a crowded marketplace.&lt;/p&gt;</description>
     </item>
   </channel>
